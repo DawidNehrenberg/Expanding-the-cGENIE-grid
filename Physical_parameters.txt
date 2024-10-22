@@ -1,0 +1,22 @@
+Physical Climate Parameters based on Cao et al. (2009)
+go_12 - no documentation
+go_13 - related to windstress - same as ea_11
+go_14 - horizontal ocean diffusivity
+go_15 - vertical ocean diffusivity
+go_16 - inverse minimum drag in days
+ea_11 - wind stress scaling - same as go_13
+ea_12 - atmospheric heat diffusivity
+ea_13 - diffusivity of Q
+ea_14 - atmosphere diff width T
+ea_15 - atmosphere diff slope T
+ea_16 - atmosphere advection factor for T_z
+ea_17 - atmosphere advection factor for T_m/q_m
+ea_18 - atmosphere advection for q_z
+ea_19 - atmosphere advection fator for q_m/q_z
+go_10 - start ocean temperature #1
+go_11 - start ocean temperature #2
+ea_28 - AMOC setting
+gs_11 - sea-ice diffusivity
+gs_par_sica_thresh - advection is stopped by ice
+ea_dosc/go_dosc/gs_dosc - seasonality
+go_diso - isopycnal/diapycnal mixing scheme

@@ -1,0 +1,1 @@
+Repository for the files used to parametrise the expansion of the cGENIE.muffin grid.
